@@ -401,7 +401,7 @@
         <id>toolshed.g2.bx.psu.edu/repos/devteam/sam2interval/sam2interval/1.0.1</id>
         <version>1.0.1</version>
     </tool>
-  <tool file="toolshed.g2.bx.psu.edu/repos/devteam/sam_bitwise_flag_filter/0b2424a404d9/sam_bitwise_flag_filter/sam_bitwise_flag_filter.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/sam_bitwise_flag_filter/sam_bw_filter/1.0.0">
+  <tool file="toolshed.g2.bx.psu.edu/repos/devteam/sam_bitwise_flag_filter/0b2424a404d9/sam_bitwise_flag_filter/sam_bitwise_flag_filter.xml" guid="toolshed.g2.bx.psu.edu/repos/devteam/sam_bitwise_flag_filter/sam_bw_filter/1.0.0" hidden="true">
       <tool_shed>toolshed.g2.bx.psu.edu</tool_shed>
         <repository_name>sam_bitwise_flag_filter</repository_name>
         <repository_owner>devteam</repository_owner>
